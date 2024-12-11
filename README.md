@@ -10,32 +10,7 @@ The repository is organized according to the course content. Each folder corresp
 - Code samples demonstrated in the live classes
 - Notes and additional resources for better understanding
 
-```
-FullStackCourseRepo/
-├── Intro_to_Web_Development/
-├── Computer_Networking_Basics/
-├── Frontend/
-│   ├── HTML/
-│   ├── CSS/
-│   ├── Tailwind/
-│   ├── Bootstrap/
-│   ├── JavaScript/
-│   ├── Animation_Libraries/
-│   └── Physics_and_Maths_in_Programming/
-├── Frontend_Library/
-├── Backend/
-│   ├── Linux_Fundamentals/
-│   ├── HTTP/
-│   ├── NodeJS_and_Express/
-│   ├── API_Development/
-│   ├── Databases/
-│   └── TypeScript/
-├── Full_Stack_Projects/
-├── CI_CD/
-├── Web_Security/
-├── Deployment/
-└── Others/
-```
+
 
 ---
 
